@@ -1,2 +1,2 @@
 # eventsphere
-Sistem za upravljanje konferencijama i događajima - Studentski projekat
+Conference and Event Management System - Student Project
